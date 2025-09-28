@@ -1,2 +1,2 @@
 # Sigma-Demo
-this is my first repo class.
+this is my first Repo class.
